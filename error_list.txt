@@ -1,0 +1,10 @@
+0	Thành công
+1	ApiToken hết hiệu lực
+2	Đã tồn tại dữ liệu
+3	Quyền truy cập bị từ chối
+4	Không tìm thấy dữ liệu
+5	Thông tin input không hợp lệ, không đúng định dạng
+6	Mã OTP không hợp lệ
+7	Thông tin username hoặc mật khẩu không đúng
+8	User DISABLE
+9	Lỗi hệ thống
